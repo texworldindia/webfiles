@@ -1,0 +1,25 @@
+{
+  "school_uniforms": [{"title": "School Uniforms", "menu": "Uniforms/School", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "yes", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "bellboy_uniforms": [{"title": "Bellboy Uniforms", "menu": "Uniforms/Bellboy", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "yes", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "front_office_uniforms": [{"title": "Front Office Uniforms", "menu": "Uniforms/Front Office", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "yes", "homePhoto": "0.jpg", "homeImages": "14"}],
+
+  "hospital_uniforms": [{"title": "Hospital Uniforms", "menu": "Uniforms/Hospital", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+
+  "service_uniforms": [{"title": "Service Uniforms", "menu": "Uniforms/Service", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "yes", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "house_keeping_uniforms": [{"title": "House Keeping Uniforms", "menu": "Uniforms/House Keeping", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "yes", "homePhoto": "0.jpg", "homeImages": "4"}],
+  "driver_uniforms": [{"title": "Driver Uniforms", "menu": "Uniforms/Driver", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "yes", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "doorman_uniforms": [{"title": "Doorman Uniforms", "menu": "Uniforms/Doorman", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "16"}],
+  "kitchen_uniforms": [{"title": "Kitchen Uniforms", "menu": "Uniforms/Kitchen", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "security_uniforms": [{"title": "Security Uniforms", "menu": "Uniforms/Security", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "10"}],
+  "jackets_executive_coats": [{"title": "Jackets & Executive Coats", "menu": "Coats/Jackets & Executive Coats", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "1.gif", "homeImages": "14"}],
+  "lab_coats": [{"title": "Doctor & Lab Coats", "menu": "Coats/Doctor & Lab", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+
+  "chef_coats": [{"title": "Chef Coats", "menu": "Coats/Chef", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "texworld_shirts": [{"title": "Texworld Shirts", "menu": "Shirts/Texworld Shirts", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "polo_shirts": [{"title": "Polo Shirts", "menu": "Shirts/Polo", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "t_shirts": [{"title": "T-Shirts", "menu": "Shirts/T-Shirts", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.png", "homeImages": "14"}],
+  "texworld_pants": [{"title": "Texworld Pants", "menu": "Pants/Texworld Pants", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}],
+  "executive_tie": [{"title": "Executive Tie", "menu": "Accessories/Executive Tie", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "10"}],
+  "aprons": [{"title": "Aprons", "menu": "Aprons", "description": "We procure branded fabrics from trusted vendors for manufacturing optimum quality", "toHome": "no", "homePhoto": "0.jpg", "homeImages": "14"}]
+
+}
